@@ -1,0 +1,15 @@
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\bin\Debug\net6.0\T1_FAML_1185721.exe
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\bin\Debug\net6.0\T1_FAML_1185721.deps.json
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\bin\Debug\net6.0\T1_FAML_1185721.runtimeconfig.json
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\bin\Debug\net6.0\T1_FAML_1185721.dll
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\bin\Debug\net6.0\T1_FAML_1185721.pdb
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\obj\Debug\net6.0\T1_FAML_1185721.csproj.AssemblyReference.cache
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\obj\Debug\net6.0\T1_FAML_1185721.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\obj\Debug\net6.0\T1_FAML_1185721.AssemblyInfoInputs.cache
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\obj\Debug\net6.0\T1_FAML_1185721.AssemblyInfo.cs
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\obj\Debug\net6.0\T1_FAML_1185721.csproj.CoreCompileInputs.cache
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\obj\Debug\net6.0\T1_FAML_1185721.dll
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\obj\Debug\net6.0\refint\T1_FAML_1185721.dll
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\obj\Debug\net6.0\T1_FAML_1185721.pdb
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\obj\Debug\net6.0\T1_FAML_1185721.genruntimeconfig.cache
+C:\Users\FIDEL LEMUS\Documents\Progra\T1_FAML_1185721\T1_FAML_1185721\obj\Debug\net6.0\ref\T1_FAML_1185721.dll
