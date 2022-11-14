@@ -1,0 +1,28 @@
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.exe
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.deps.json
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.runtimeconfig.json
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.runtimeconfig.dev.json
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.dll
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.pdb
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.dll
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.pdb
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album (1)\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.exe
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.deps.json
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.runtimeconfig.json
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.runtimeconfig.dev.json
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.dll
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\bin\Debug\netcoreapp3.1\Proyecto2_Album.pdb
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.dll
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.pdb
+C:\Users\jorge\OneDrive\Escritorio\Proyecto2_Album\Proyecto2_Album\Proyecto2_Album\obj\Debug\netcoreapp3.1\Proyecto2_Album.genruntimeconfig.cache
